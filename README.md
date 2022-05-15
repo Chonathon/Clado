@@ -1,6 +1,6 @@
-# Clato
+# Clado
 ## Description
-Clato is a site designed to explore common ansestory between species by being able to see the divergence between creatures through time provides an exciting and stimulating way to make scientific abstractions tangible & real. Our goal is to bridge the gap between scientific research available to the public on biology & taxonomy and intellectually curious members of the public who want to understand more about current scientific models for Life on Earth. Specifically, we want to create a visual index for the relationship between different creatures and how they play into frameworks that attempt to explain the history of life on our planet.
+Clado is a site designed to explore common ansestory between species by being able to see the divergence between creatures through time provides an exciting and stimulating way to make scientific abstractions tangible & real. Our goal is to bridge the gap between scientific research available to the public on biology & taxonomy and intellectually curious members of the public who want to understand more about current scientific models for Life on Earth. Specifically, we want to create a visual index for the relationship between different creatures and how they play into frameworks that attempt to explain the history of life on our planet.
 
 ![Screen Shot 2022-05-10 at 10 26 35 PM](https://user-images.githubusercontent.com/79057519/167756543-6df2bc23-5a6e-4d74-9566-ff67817cc91d.png)
 
